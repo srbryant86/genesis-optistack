@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# iOS Working Copy temp files
+*_temp.txt
+
+# Logs and meta
+*.log
+*.lock
+
+# OS junk
+Thumbs.db
+ehthumbs.db
+
+# Archive files
+*.zip
+*.tar
+*.gz
