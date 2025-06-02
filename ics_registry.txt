@@ -1,0 +1,4 @@
+ICS Registered Vault: genesis-optistack
+Hash Link File: sha256.txt
+Anchor File: ics_hash_seal.txt
+Snapshot ID: optistack-genesis-launch-f8d21ac-icslock

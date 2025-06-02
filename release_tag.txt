@@ -1,0 +1,4 @@
+Tag: v1.0-optistack-genesis
+Message: First public trust release: verified + monetized
+Hash: f8d21ac
+Ref: https://github.com/srbryant86/genesis-optistack/releases
