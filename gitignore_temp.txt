@@ -1,0 +1,6 @@
+*.lock
+*.zip
+*.DS_Store
+node_modules/
+.env
+__pycache__/
