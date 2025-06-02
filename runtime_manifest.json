@@ -1,0 +1,8 @@
+{
+  "canonical_runtime": true,
+  "runtime_id": "optistack_genesis",
+  "anchor_trace": "vault_snapshot.lock",
+  "ics_hash": "pending",
+  "license_tier": "Tier 3",
+  "trust_seal": "https://certnode.io/verify?ics=optistack"
+}
