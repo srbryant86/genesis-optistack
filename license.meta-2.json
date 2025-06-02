@@ -1,0 +1,23 @@
+{
+  "license_id": "certnode-optistack-tier3",
+  "tiers": {
+    "Tier 1": {
+      "usage": "Personal / Non-commercial",
+      "price": "Free",
+      "support": "None"
+    },
+    "Tier 2": {
+      "usage": "Small business / Indie",
+      "price": "$99",
+      "support": "Email",
+      "trust_seal": true
+    },
+    "Tier 3": {
+      "usage": "Institutional / Enterprise",
+      "price": "$499+",
+      "support": "Priority",
+      "trust_seal": true,
+      "customization_rights": true
+    }
+  }
+}

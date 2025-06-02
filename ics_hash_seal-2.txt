@@ -1,0 +1,3 @@
+ICS_HASH_PENDING
+vault_trace_anchor: vault_snapshot.lock
+runtime_id: optistack_genesis

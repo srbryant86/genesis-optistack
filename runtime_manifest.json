@@ -4,5 +4,5 @@
   "anchor_trace": "vault_snapshot.lock",
   "ics_hash": "pending",
   "license_tier": "Tier 3",
-  "trust_seal": "https://certnode.io/verify?ics=optistack"
+  "trust_seal": "pending"
 }
